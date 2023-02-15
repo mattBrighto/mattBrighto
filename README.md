@@ -6,7 +6,7 @@
 - 👀 I’m interested in cybersecurity, ai, programming overall, APIs, and many more geeky stuff
 - 🌱 I’m currently learning discord.js
 
-## 📫 How to reach me
+<!-- ## 📫 How to reach me -->
 <!-- [<img align="center" alt="Discord" src="https://img.shields.io/badge/-mattBrigth%234032-blue?style=for-the-badge&logo=discord"/>][discord] -->
 
 <!-- ## ⚙️ My skills -->
