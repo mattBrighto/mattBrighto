@@ -5,7 +5,7 @@
 
 - email: mateuszwronski.yt@gmail.com
 
-- discord [<img align="center" alt="Discord" src="https://img.shields.io/badge/-mattBrigth%234032-blue?style=for-the-badge&logo=discord"/>][discord]
+- discord: [<img align="center" alt="Discord" src="https://img.shields.io/badge/-mattBrigth%234032-blue?style=for-the-badge&logo=discord"/>][discord]
 
 ## ⚙️ My skills
 [<img align="center" alt="HTML" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>][html]
