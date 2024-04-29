@@ -1,11 +1,5 @@
- ## br1ght
+ ## @br1ght
 <!-- <img src="https://komarev.com/ghpvc/?username=mattBrighto" alt="profile visits count" /><br/><br/> -->
----
-
-## @me
-
-- linux masterrace
-- 
 
 ## 📫 How to reach me
 
