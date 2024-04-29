@@ -1,7 +1,7 @@
  ## @br1ght
 <!-- <img src="https://komarev.com/ghpvc/?username=mattBrighto" alt="profile visits count" /><br/><br/> -->
 
-## 📫 How to reach me
+## reach me @
 
 - email: mateuszwronski.yt@gmail.com
 
