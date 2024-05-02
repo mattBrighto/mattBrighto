@@ -11,6 +11,9 @@
 [<img align="center" alt="HTML" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>][html]
 [<img align="center" alt="CSS" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>][css]
 
+# blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [discord]: https://discord.gg/annaeuJa7V
 [html]: https://www.w3schools.com/html/
