@@ -1,5 +1,4 @@
 ## @br1ght
-## reach me @
 
 - email: mateuszwronski.yt@gmail.com
 - discord: [<img align="center" alt="Discord" src="https://img.shields.io/badge/-mattBrigth%234032-blue?style=for-the-badge&logo=discord"/>][discord]
